@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T07:25:29.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nbjhUxcdOqqRNfe4yZTJ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:27:47.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="km2qRWslc3HZr8zChPrD" version="17.4.6" type="github">
   <diagram id="L2R32xq3GNuSgDwLyyQL" name="分层架构">
     <mxGraphModel dx="1271" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="110" y="270" width="580" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-4" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="110" y="490" width="580" height="140" as="geometry" />
+          <mxGeometry x="110" y="560" width="580" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-8" value="CPS平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="750" width="80" height="30" as="geometry" />
@@ -50,16 +50,25 @@
           <mxGeometry x="380" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-13" value="能源管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="790" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-14" value="安全管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="790" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="790" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-15" value="环保管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="80" height="30" as="geometry" />
+          <mxGeometry x="290" y="790" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-16" value="物流一卡通" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="470" y="790" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xCpuu_k8cyC96uPTRZQ-17" value="全量数据采集" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="615" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xCpuu_k8cyC96uPTRZQ-18" value="增量数据采集" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="615" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xCpuu_k8cyC96uPTRZQ-19" value="流式数据采集&lt;br&gt;Kafka/MQTT" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="615" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
