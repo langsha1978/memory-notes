@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:08:02.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1WRxc11E6WFILVS6TnFZ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:09:27.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="htAsog28Q3GUNfgrqeWS" version="17.4.6" type="github">
   <diagram id="L2R32xq3GNuSgDwLyyQL" name="分层架构">
     <mxGraphModel dx="1271" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-27" value="文件存储&lt;br&gt;NFS/MinIO" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xCpuu_k8cyC96uPTRZQ-28" value="内存数据库&lt;br&gt;Redis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xCpuu_k8cyC96uPTRZQ-29" value="大数据存储&lt;br&gt;Hdfs/Hive/Hbase" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
