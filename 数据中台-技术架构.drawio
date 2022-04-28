@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:04:19.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OfUNuwUMRlD09BS07Jss" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:05:00.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qL9HYm6MSdslkX6NAmhn" version="17.4.6" type="github">
   <diagram id="L2R32xq3GNuSgDwLyyQL" name="分层架构">
     <mxGraphModel dx="1271" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9xCpuu_k8cyC96uPTRZQ-25" value="中台服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="570" y="410" width="160" height="140" as="geometry" />
+          <mxGeometry x="570" y="410" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dHJ5faFvzqeMJSQzpvrs-1" value="中台服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="110" y="100" width="580" height="140" as="geometry" />
